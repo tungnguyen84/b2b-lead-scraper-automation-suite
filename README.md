@@ -2,6 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Apify Store](https://img.shields.io/badge/Apify_Store-3_Live_Cloud_Actors-00C853.svg)](https://apify.com/tungnguyen84)
+[![Gumroad Pro Suite](https://img.shields.io/badge/Gumroad-Download_Pro_Suite_(%2414.99)-FF90E8.svg)](https://tungnguyen84.gumroad.com/l/pinmv)
 [![Hire on Fiverr](https://img.shields.io/badge/Fiverr-5.0%E2%98%85_Top_Rated_Developer-1DBF73.svg)](https://www.fiverr.com/tungnguyen84)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -27,6 +28,7 @@ Don't want to manage proxies or servers? Run our official cloud scrapers directl
 
 We build custom **Python Scrapers (Playwright / Selenium / Cloudflare & DataDome Bypass)**, **B2B Lead Lists**, and **Automated Excel VBA Dashboards** with **24-Hour Turnaround** and a **Free Sample Before You Pay**:
 
+- 🟣 **Download Full Pro Suite on Gumroad (\$14.99 Instant Download):** [Python B2B Lead Scraper, Email Extractor & Excel VBA Automation Suite Pro](https://tungnguyen84.gumroad.com/l/pinmv)
 - 🟢 **Order on Fiverr (5.0★ Rated, 100% Completion):**
   - [Python Web Scraping, Data Extraction & B2B Lead Generation](https://www.fiverr.com/s/kL4m6V0)
   - [Excel VBA Macros, Custom Formulas & Automated Dashboards](https://www.fiverr.com/s/bd4m6V0)
